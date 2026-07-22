@@ -39,4 +39,4 @@ function boasVindas(nome){
 | Markdown | sim | Ativo |
 
 
-![TubarãoMartelo](pc.jpg)
+![TubarãoMartelo](images.jpg)
